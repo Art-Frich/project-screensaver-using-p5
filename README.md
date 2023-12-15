@@ -1,5 +1,5 @@
 # project-screensaver
-### [Ссылка на проект](https://art-frich.github.io/project-screensaver/)
+### [Ссылка на проект](https://art-frich.github.io/project-screensaver-using-p5/)
 ### Описание 
 Заставка для экрана с эффектом полёта сквозь звёзды. Отлично укачивает.
 ### Дополнительная инфомрация
